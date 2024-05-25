@@ -158,7 +158,7 @@ export function Design() {
           </div>
         </div>
         <div className="flex-1 bg-white dark:bg-gray-900 rounded-lg shadow-lg overflow-hidden relative">
-          <div className="absolute inset-0 grid place-items-center text-gray-300 dark:text-gray-600 text-4xl font-bold">
+          <div className="absolute inset-0 grid place-items-center text-gray-300 dark:text-gray-600 text-4xl font-bold select-none">
             Drop your apparel assets here
           </div>
         </div>
